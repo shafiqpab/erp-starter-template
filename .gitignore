@@ -1,0 +1,32 @@
+# Logs
+*.log
+logs/
+
+# Local config
+config/database.local.php
+config/app.local.php
+
+# Temporary files
+*.tmp
+*.temp
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Session files
+session/
+
+# Cache
+cache/
+
+# Dependencies
+vendor/
+node_modules/
+
+# Environment
+.env
+.env.local
